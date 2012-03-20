@@ -40,7 +40,7 @@ namespace SpireRPG.TileEngine
         #region Method Region
         public void Draw(SpriteBatch spriteBatch)
         {
-            Rectangle destination = new Rectangle(0,0,Engine.TileWidth, Engine.TileHeight)
+            Rectangle destination = new Rectangle(0, 0, Engine.TileWidth, Engine.TileHeight);
             Tile tile;
 
             foreach(MapLayer layer in mapLayers)
