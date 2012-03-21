@@ -1,0 +1,5 @@
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\RpgLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\RpgLibrary\obj\Debug\RpgLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPGLibrary\bin\x86\Debug\SpireRPGLibrary.dll
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPGLibrary\bin\x86\Debug\SpireRPGLibrary.pdb
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPGLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPGLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPGLibrary\obj\x86\Debug\SpireRPGLibrary.dll
+C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPGLibrary\obj\x86\Debug\SpireRPGLibrary.pdb
