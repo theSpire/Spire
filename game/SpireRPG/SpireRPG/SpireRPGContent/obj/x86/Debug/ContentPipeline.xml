@@ -10,6 +10,24 @@
       <Output>C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPG\SpireRPG\bin\x86\Debug\Content\Tilesets\FFIOriginsMap1.xnb</Output>
       <Time>2012-03-19T19:10:19.8077421-07:00</Time>
     </Item>
+    <Item>
+      <Source>Backgrounds\River.png</Source>
+      <Name>Backgrounds\River</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPG\SpireRPG\bin\x86\Debug\Content\Backgrounds\River.xnb</Output>
+      <Time>2012-03-21T23:18:54.7572278-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Sea.png</Source>
+      <Name>Backgrounds\Sea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Scott\Desktop\GitThings\Spire\game\SpireRPG\SpireRPG\SpireRPG\bin\x86\Debug\Content\Backgrounds\Sea.xnb</Output>
+      <Time>2012-03-21T23:18:54.7728278-07:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

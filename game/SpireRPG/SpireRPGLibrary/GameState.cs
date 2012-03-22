@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
 
-namespace SpireRPG
+namespace SpireRPGLibrary
 {
     public class GameState : Microsoft.Xna.Framework.DrawableGameComponent
     {

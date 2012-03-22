@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
 
-namespace SpireRPG
+namespace SpireRPGLibrary
 {
     public class InputHandler : Microsoft.Xna.Framework.GameComponent
     {
@@ -50,13 +50,6 @@ namespace SpireRPG
             lastKeyboardState = keyboardState;
             keyboardState = Keyboard.GetState();
             base.Update(gameTime);
-        }
-        #endregion
-
-        #region General Method Region
-        public static void Flush()
-        {
-            lastKeyboardState = keyboardState;
         }
         #endregion
 
